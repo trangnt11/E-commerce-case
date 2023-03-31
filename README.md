@@ -1,11 +1,13 @@
 In this project, I will analyze an ecommerce casestudy
 
 Bài 1: Logical thinking 
+
 Đề bài: Tú là một người bán hàng và đang muốn bán mĩ phẩm online. Sau một hồi nghiên cứu tìm hiểu thì anh ta quyết định lựa chọn bán hàng trên một sàn thương mại điện tử tên là ABC.vn vì đây có vẻ là một sàn thương mại điện tử uy tín. Tuy nhiên anh ta còn đang băn khoăn không biết rằng liệu tổng số đơn hàng và doanh thu mà anh ta sẽ kiếm được thông qua website ABC.vn liệu sẽ là bao nhiêu và muốn nhận được tư vấn từ team ABC.vn. Với vai trò là data analyst của ABC.vn và bạn có quyền truy cập kho dữ liệu của ABC.vn (bao gồm thông tin các đơn hàng, mặt hàng, giá trị đơn hàng, v.v.), bạn sẽ ước lượng doanh số bán hàng thông trên ABC.vn cho Tú như thế nào?
 
 Hãy tự đưa ra những giả định cần thiết để phục vụ cho câu trả lời của bạn.
 
 Bài 2: Phân tích và đưa ra lời khuyên cải thiện sàn e-commerce
+
 1. Xử lý dữ liệu
 1.1. Mô tả dữ liệu
 1.2. Thêm cột tính khoảng thời gian giữa các hành động của người mua trên sàn TMĐT
