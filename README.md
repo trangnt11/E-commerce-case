@@ -9,15 +9,22 @@ Hãy tự đưa ra những giả định cần thiết để phục vụ cho câ
 Bài 2: Phân tích và đưa ra lời khuyên cải thiện sàn e-commerce
 
 1. Xử lý dữ liệu
+
 1.1. Mô tả dữ liệu
+
 1.2. Thêm cột tính khoảng thời gian giữa các hành động của người mua trên sàn TMĐT
+
 Sau khi thêm cột, ta tính được khoảng thời gian trung bình giữa các hành động của người bán, từ đó đưa ra lời khuyên tối ưu khoảng thời gian cho website ABC
 
 1.3. Kiểm tra dữ liệu
+
 Mỗi người bán đều phải trải qua lần lượt các hành động, do vậy khoảng thời gian giữa các hành động phải >= 0, ta check dữ liệu xem có khoảng thời gian nào <0 hay không
 => Từ đó tìm ra lỗi cho website và khắc phục
+
 2. Minh hoạ dữ liệu
+
 2.1. Số người bán đăng ký theo tháng & số người bán có đơn hàng đầu tiên theo tháng
+
 2.2. Thời gian trung bình các hoạt động của người bán theo category
 
 
